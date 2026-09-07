@@ -2,6 +2,9 @@
 
 A 3-minute Game Audio portfolio featuring original background music and procedural SFX synthesized using Csound.
 
+## 🎬 Video Showcase
+[Watch the 3-minute Audio Showcase on YouTube](https://youtu.be/dPjhTN9rXCY)
+
 ## 🎧 Features
 - Original BGM: Background Menu theme.
 - Csound SFX: Procedural audio synthesis for in-game actions (`Fire.csd`, Hit_impact.csd, Item_collect.csd, UI_click_1.csd, Water_drop.csd, `Wind.csd`).
